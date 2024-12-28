@@ -1,0 +1,14 @@
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\bin\Debug\net9.0\practiceProblem9.exe
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\bin\Debug\net9.0\practiceProblem9.deps.json
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\bin\Debug\net9.0\practiceProblem9.runtimeconfig.json
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\bin\Debug\net9.0\practiceProblem9.dll
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\bin\Debug\net9.0\practiceProblem9.pdb
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\obj\Debug\net9.0\practiceProblem9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\obj\Debug\net9.0\practiceProblem9.AssemblyInfoInputs.cache
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\obj\Debug\net9.0\practiceProblem9.AssemblyInfo.cs
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\obj\Debug\net9.0\practiceProblem9.csproj.CoreCompileInputs.cache
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\obj\Debug\net9.0\practiceProblem9.dll
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\obj\Debug\net9.0\refint\practiceProblem9.dll
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\obj\Debug\net9.0\practiceProblem9.pdb
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\obj\Debug\net9.0\practiceProblem9.genruntimeconfig.cache
+C:\Users\VDI-User\RiderProjects\practiceProblem9\practiceProblem9\obj\Debug\net9.0\ref\practiceProblem9.dll
